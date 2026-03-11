@@ -1,0 +1,77 @@
+
+Stage 1
+=======
+read 5 candidates and 7 votes
+voter 7 preferences...
+    rank  1: Cheng
+    rank  2: Allyx
+    rank  3: Breyn
+    rank  4: Ellan
+    rank  5: Duc
+
+Stage 2
+=======
+round 1...
+    Allyx               :   2 votes,  28.6%
+    Breyn               :   1 votes,  14.3%
+    Cheng               :   2 votes,  28.6%
+    Duc                 :   2 votes,  28.6%
+    Ellan               :   0 votes,   0.0%
+    ----
+    Ellan is eliminated and votes distributed
+
+round 2...
+    Allyx               :   2 votes,  28.6%
+    Breyn               :   1 votes,  14.3%
+    Cheng               :   2 votes,  28.6%
+    Duc                 :   2 votes,  28.6%
+    ----
+    Breyn is eliminated and votes distributed
+
+round 3...
+    Allyx               :   2 votes,  28.6%
+    Cheng               :   3 votes,  42.9%
+    Duc                 :   2 votes,  28.6%
+    ----
+    Allyx is eliminated and votes distributed
+
+round 4...
+    Cheng               :   4 votes,  57.1%
+    Duc                 :   3 votes,  42.9%
+    ----
+    Cheng is declared elected
+
+
+Stage 3
+=======
+round 1...
+    Allyx               :   2 votes,  28.6%
+    Cheng               :   2 votes,  28.6%
+    Duc                 :   2 votes,  28.6%
+    Breyn               :   1 votes,  14.3%
+    Ellan               :   0 votes,   0.0%
+    ----
+    Ellan is eliminated and votes distributed
+
+round 2...
+    Allyx               :   2 votes,  28.6%
+    Cheng               :   2 votes,  28.6%
+    Duc                 :   2 votes,  28.6%
+    Breyn               :   1 votes,  14.3%
+    ----
+    Breyn is eliminated and votes distributed
+
+round 3...
+    Cheng               :   3 votes,  42.9%
+    Allyx               :   2 votes,  28.6%
+    Duc                 :   2 votes,  28.6%
+    ----
+    Allyx is eliminated and votes distributed
+
+round 4...
+    Cheng               :   4 votes,  57.1%
+    Duc                 :   3 votes,  42.9%
+    ----
+    Cheng is declared elected
+
+tadaa!

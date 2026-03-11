@@ -1,0 +1,10 @@
+Stage 1
+=======
+read 5 candidates and 7 votes
+voter 7 preferences...
+    rank   1: Cheng
+    rank   2: Allyx
+    rank   3: Breyn
+    rank   4: Ellan
+    rank   5: Duc
+tadaa!

@@ -1,0 +1,23 @@
+
+Stage 1
+=======
+read 1 candidates and 1 votes
+voter 1 preferences...
+    rank  1: Zoe
+
+Stage 2
+=======
+round 1...
+    Zoe                 :   1 votes, 100.0%
+    ----
+    Zoe is declared elected
+
+
+Stage 3
+=======
+round 1...
+    Zoe                 :   1 votes, 100.0%
+    ----
+    Zoe is declared elected
+
+tadaa!

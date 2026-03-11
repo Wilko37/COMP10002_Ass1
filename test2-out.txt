@@ -1,0 +1,51 @@
+
+Stage 1
+=======
+read 3 candidates and 12 votes
+voter 12 preferences...
+    rank  1: Artem
+    rank  2: Alistair
+    rank  3: Albanese
+
+Stage 2
+=======
+round 1...
+    Albanese            :   2 votes,  16.7%
+    Alistair            :   6 votes,  50.0%
+    Artem               :   4 votes,  33.3%
+    ----
+    Albanese is eliminated and votes distributed
+
+round 2...
+    Alistair            :   6 votes,  50.0%
+    Artem               :   6 votes,  50.0%
+    ----
+    Alistair is eliminated and votes distributed
+
+round 3...
+    Artem               :  12 votes, 100.0%
+    ----
+    Artem is declared elected
+
+
+Stage 3
+=======
+round 1...
+    Alistair            :   6 votes,  50.0%
+    Artem               :   4 votes,  33.3%
+    Albanese            :   2 votes,  16.7%
+    ----
+    Albanese is eliminated and votes distributed
+
+round 2...
+    Alistair            :   6 votes,  50.0%
+    Artem               :   6 votes,  50.0%
+    ----
+    Alistair is eliminated and votes distributed
+
+round 3...
+    Artem               :  12 votes, 100.0%
+    ----
+    Artem is declared elected
+
+tadaa!
